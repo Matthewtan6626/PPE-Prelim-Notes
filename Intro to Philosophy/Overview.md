@@ -12,3 +12,7 @@ The reason why I choose (3) for moral was simply because it was integral to the 
 I think, as many people do, it is optimal to do two questions in logic. This is because logic is highly improvable and is not difficult. There are almost always only one question with identity, one question (wholly) dedicated to natural deduction and counter-examples in predicate logic, one question dedicated to formalisation in predicate logic, one question dedicated to set theory. Unfortunately, almost all these expectations were thwarted in my year. 
 
 The best resource for getting used to natural deduction is: [https://users.ox.ac.uk/~logicman/carr/NDpack.pdf] or the Natural Deduction pack. I think it is quite useful as a break of sorts. 
+
+## Philosophy essays
+
+Personally, I find philosophy essays quite hard (much more so than politics). They are just much more demanding in the level of thinking and writing required. I found it useful to develop 'meta strategies' whereby you create a 'fixed' conclusion and evaluation you'll always use for a family of questions. Obviously, such a strategy is highly optimised for examinations and misses the point of learning (but *ikigai* is to have the fixed conclusion to be the one you actually believe in). For instance, for questions on the Gettier Problem, I always structure my essay as (1) outlining the Gettier Problem, (2) prima facie, why the puported solution works (and fails), (3) why no solution works, (4) why there is no analysis of knowledge. 
