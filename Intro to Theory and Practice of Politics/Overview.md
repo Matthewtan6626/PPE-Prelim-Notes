@@ -1,1 +1,3 @@
+# Overview of Politics
 
+I chose to study 3 topics for practice of politics and 4 topics for theory of politics (but did not really focus on Mill). I really hoped to do 2 questions for each, rather than burdening my practice of politics with having to do 3 questions. This is because I think the amount of knowledge and content you need for practice is quite a lot, in the sense that if you don't know the most relevant material, you're a sitting duck. This is unlike Theory of Politics, where even if you're doing a question on Liberty and you only have some cursory knowledge on Isaiah Berlin, you'll can still potentially write a great essay.  
