@@ -10,7 +10,7 @@ I have tried to prove any result in my notes, especially for microeconomics. Som
 These (sometimes sketchy) proofs are not required, though I think they might be useful (for intuition)! For instance, in the 2024 Prelims Microeconomics paper, it would be useful to have in your artillery the proper proof for why the reservation price of a demand curve with constant PED is infinite. 
 
 Other than that, do consult the slides first and foremost, as well as any useful textbooks:
-1. For microeconomics, I found Varian's intermediate microeconomics with calculus to be very useful. Complement this with the slides particularly on applied topics such as Oligpoly, Monopoly (and price discrimination) where Varian's treatement is relatively inadequate. 
+1. For microeconomics, I found Varian's intermediate microeconomics with calculus to be very useful. Complement this with the slides particularly on applied topics such as Oligpoly, Monopoly (and price discrimination) where Varian's treatement is relatively inadequate. Conversely, Varian's treatement of preferences in consumer theory is much better than the slides. 
 I heavily disliked Perloff's textbook's style because I found it unreadable.
 2. For macroeconomics, the slides are most useful. For (occassionally) more in depth discussion, use the Jones' textbook. His discussion on the short run (particularly IS-MP-PC) was superior to the slides.
 Where treatements are terrible, one should consult more advanced texts. 
