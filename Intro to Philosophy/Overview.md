@@ -9,7 +9,7 @@ The reason why I choose (3) for moral was simply because it was integral to the 
 
 ## A note on logic
 
-I think, as many people do, it is optimal to do two questions in logic. This is because logic is highly improvable and is not difficult. There are almost always only one question with identity, one question (wholly) dedicated to natural deduction and counter-examples in predicate logic, one question dedicated to formalisation in predicate logic, one question dedicated to set theory. Unfortunately, almost all these expectations were thwarted in my year. 
+I think, as many people do, it is optimal to do two questions in logic. This is because logic is highly improvable and is not difficult. There are almost always only one question with identity, one question (wholly) dedicated to natural deduction and counter-examples in predicate logic, one question dedicated to formalisation in predicate logic, one question dedicated to set theory. Unfortunately, almost all these expectations were thwarted in my year. Just know what you're good at; I knew I am terrible at formalisation (especially with identity), so I avoid that at all cost. 
 
 The best resource for getting used to natural deduction is: [https://users.ox.ac.uk/~logicman/carr/NDpack.pdf] or the Natural Deduction pack. I think it is quite useful as a break of sorts. 
 
